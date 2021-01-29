@@ -1,0 +1,45 @@
+TIEMPOS EJECUCIÓN EMPLEANDO SINGULARITY
+--------------------------------------------
+Tiempo de ejecución 13 k-mers con python
+--------------------------------------------
+Start
+Number of generated k-mers: 67108864
+Finish!
+
+real	1m33,302s
+user	1m32,268s
+sys	0m0,183s
+
+--------------------------------------------
+Tiempo de ejecución 14 k-mers con python
+--------------------------------------------
+Start
+Number of generated k-mers: 268435456
+Finish!
+
+real	6m4,533s
+user	6m3,772s
+sys	0m0,179s
+
+---------------------------------------
+Tiempo de ejecución 13 k-mers con C++
+---------------------------------------
+Start
+Number of generated k-mers: 67108864
+Finish!
+
+real	0m0,975s
+user	0m0,813s
+sys	0m0,112s
+
+---------------------------------------
+Tiempo de ejecución 14 k-mers con C++
+---------------------------------------
+Start
+Number of generated k-mers: 268435456
+Finish!
+
+real	0m2,990s
+user	0m2,834s
+sys	0m0,122s
+
